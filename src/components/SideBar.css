@@ -1,0 +1,8 @@
+.open {
+    opacity: 1;
+}
+
+#side-nav-links {
+    opacity: 1;
+    transition: opacity 1s linear;
+}
